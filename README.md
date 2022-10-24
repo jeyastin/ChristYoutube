@@ -2,8 +2,6 @@
 
 Sample project that shows how to use the YouTube REST API with Ionic.
 
-This project is an example created in the [Simon Reimler Blog](https://devdactic.com/ionic-youtube-rest-api/). 
-
 # Running
 
 Before you go through this example, you should have at least a basic understanding of Ionic concepts. You must also already have Ionic installed on your machine.
